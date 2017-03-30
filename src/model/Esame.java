@@ -64,7 +64,7 @@ public class Esame {
 		}else{
 			throw new IllegalStateException("Esame "+this.codice+" non ancora superato");
 
-		}
+		}//
 	}
 
 	private void setVoto(int voto) {
